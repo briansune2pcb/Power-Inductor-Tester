@@ -6,6 +6,8 @@ It is essential to understand the inductor saturation current and the voltage an
 
 General low voltage LRC meter cannot easily measured.
 
+This front-end tester need an oscilloscope to measure the ramp, so any low frequency or low price DSO can do the work perfectly.
+
 ![image](https://user-images.githubusercontent.com/115007168/210384131-20e04018-aad0-4eae-bd62-09f38c41f1a4.png)
 
 
